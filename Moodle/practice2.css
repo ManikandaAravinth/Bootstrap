@@ -1,0 +1,25 @@
+.Head_One{
+    font-weight: 600;
+    font-size: 70px;
+}
+.Head_Two{
+    color: blue;
+    font-size: 50px;
+    font-weight: 600;
+}
+#Un_List{
+    font-size: 30px;
+}
+.List_Item{
+    text-decoration:line-through;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.537);
+}
+.Head_Three{
+    font-weight: 600;
+    font-size: 50px;
+}
+#Un_Two{
+    font-size: 20px;
+    font-weight: bold;
+}

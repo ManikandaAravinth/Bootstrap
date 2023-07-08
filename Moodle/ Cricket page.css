@@ -1,0 +1,27 @@
+.Cus-Font{
+    font-family: 'Roboto', sans-serif;
+}
+.Cus-BodyBgColor{
+    background-color: #e6f6ff;
+    color: #323f4b;
+}
+.Cus-BorderRadius{
+    border-radius: 1em;
+    background-color: #ffffff;
+}
+.Cus-About .Title-Container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#fb4e71 ;
+    color: #ffffff;
+}
+.Cus-Videos .card{
+    background-color: inherit;
+}
+.Cus-Records .Cus-Records-Text
+{
+color: #888888;
+}
+.Cus-Videos .Cus-Videos-Text{
+    color: #323f4b;
+}

@@ -1,0 +1,12 @@
+.logo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+}
+.navbar-brand{
+    border: 1px solid red;
+    color: red;
+    margin: 1px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

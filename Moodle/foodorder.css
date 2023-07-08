@@ -1,0 +1,29 @@
+.main {
+    margin-left: 400px;
+    height:500px;
+
+}
+
+.two {
+    background-color: #f6c56e;
+    position: relative;
+    margin-top: -98px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.tit{
+    font-family: 'Bree Serif', serif;
+    color: #323f4b;
+   
+}
+.para{
+    font-family: 'Roboto', sans-serif;
+    color: #323f4b;
+}
+.but{
+    background-color:#ffffff;
+    
+    
+
+}

@@ -1,0 +1,28 @@
+.Cus-BgButton{
+    background-color: #0967d2;
+    border-radius: 10px;
+}
+.Cus-Test-Container{
+    background-color: #0967d219;
+}
+.Cus-Video-Container{
+    background-color: #e12d3919;
+}
+.Cus-Cough-BgColor{
+    background-color: #3ebd93;
+    border-radius: 10px;
+}
+.Cus-Fever-BgColor{
+    background-color: #e668a7;
+    border-radius: 10px;
+}
+.Cus-Headache-BgColor{
+    background-color: #a368fc;
+    border-radius: 10px;
+}
+.Cus-BorderRadius{
+    border-radius: 18px;
+}
+.Cus-Font{
+    font-family: 'Roboto', sans-serif;
+}

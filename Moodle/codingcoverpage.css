@@ -1,0 +1,26 @@
+.main{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 600px;
+    width: 350px;
+    margin-left: 400px;
+    margin: 0 auto;
+    
+}
+.two{
+   border: 4px solid #48ee59;
+   position: relative;
+   top: 100px;
+   left: 40px;
+   padding-top: 10px;
+   width: 280px;
+   background-color: #00000080;    
+   
+}
+.txt{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 25px;
+}

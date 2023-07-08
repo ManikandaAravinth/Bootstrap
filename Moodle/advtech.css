@@ -1,0 +1,17 @@
+.card-title{
+    font-family:'Bree Serif', serif ;
+    color: #5752ab;
+    font-size: x-large;
+}
+.btn-0{
+    border-color: #d7dfe9;
+}
+.text{
+    border-radius: 20px;
+}
+.card-text{
+    color:#323f4b;
+}
+.name{
+    /* text-align: center; */
+}

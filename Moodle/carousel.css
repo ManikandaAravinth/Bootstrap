@@ -1,0 +1,12 @@
+.card-body{
+    background-color: rgb(247, 99, 99);
+}
+.card-title{
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.carousel-indicators {
+    
+    border-radius: 50%;
+  }
